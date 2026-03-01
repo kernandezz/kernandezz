@@ -13,13 +13,6 @@ I'm a Systems Engineering student passionate about solving problems through code
 * ⚙️ **Workflow:** Clean code, Git version control, and BPMN process modeling.
 
 <br>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-### 🚀 About Me
-* 🎓 **Education:** Systems Engineering Undergraduate (7th cycle).
-* 💼 **Looking for:** Pre-professional internships in Software Development, Data Analytics, or IT.
-* 🗣️ **Languages:** Spanish (Native), English (Advanced).
-* ⚙️ **Workflow:** Clean code, Git version control, and BPMN process modeling.
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
